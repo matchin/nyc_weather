@@ -1,5 +1,4 @@
 # nyc_weather
-
 What's the Weather Like in New York?
 
 Exploratory analysis of NYC weather over the last 20 years
